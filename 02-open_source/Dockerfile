@@ -1,3 +1,3 @@
 FROM ollama/ollama
 
-COPY /ollama_files/models/ ./models
+COPY /ollama_files /root/.ollama
